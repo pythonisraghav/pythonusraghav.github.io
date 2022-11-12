@@ -1,0 +1,71 @@
+#logo {
+    color: #A6593D;
+    font-family: Aborm;
+    text-shadow: none;
+    margin-left: 11px;
+    font-size: 35px;
+}
+#tex{
+    font-family: Nunito;
+    color: #A6593D;
+    padding-top: 7em;
+    padding-left: 40px;
+    margin: 0px;
+}
+
+#tex4{
+    font-family: Cloudy Aurora Serif;
+    color: #A6593D;
+    font-size: 40px;
+    padding-top: 2em;
+    padding-left: 40px;
+    margin: 0px;
+}
+
+body{
+    background-color: #F3EEE8;
+}
+
+#app{
+    padding-left: 35px;
+    color: #A6593D;
+    text-decoration: solid;
+    font-size: 60px;
+    font-family: Aborm;
+}
+#web{
+    padding-left: 35px;
+    color: #A6593D;
+    text-decoration: solid;
+    font-size: 60px;
+    font-family: Aborm;
+}
+#logo2{
+    padding-left: 35px;
+    color: #A6593D;
+    text-decoration: solid;
+    font-size: 60px;
+    font-family: Aborm;
+}
+
+#text1{
+    font-family: Nunito;
+    color: #A6593D;
+    font-size: x-large;
+
+}
+
+#work{
+    /* height: 500px; */
+    display: flex;
+    margin: auto;
+    justify-content: flex-start;
+}
+
+
+
+.text{
+    font-family: Nunito;
+    color: #A6593D;
+    font-size: x-large;
+}
